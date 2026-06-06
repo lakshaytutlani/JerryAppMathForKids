@@ -1,0 +1,6 @@
+{
+  "name": "Jerry Math Coach",
+  "description": "A quirky, friendly math coach assistant inspired by Jerry the mouse, complete with an interactive Swiss-cheese doodle canvas, kid-themed grade level challenges, and stars to reward math learning for kids aged 8-12.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
